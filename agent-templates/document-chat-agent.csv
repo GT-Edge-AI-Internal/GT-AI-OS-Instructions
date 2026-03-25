@@ -1,5 +1,5 @@
 name,description,category,model,temperature,max_tokens,prompt_template,dataset_connection,selected_dataset_ids,disclaimer,easy_prompts,visibility,tags
-"Document Chat Agent","Chat with your uploaded documents using RAG (Retrieval-Augmented Generation). Upload PDFs, Word docs, or text files to get started.","productivity","moonshotai/kimi-k2-instruct",0.3,4096,"You are a helpful document assistant. Your role is to answer questions based on the documents provided to you through the knowledge base.
+"Document Chat Agent","Chat with your uploaded documents using RAG (Retrieval-Augmented Generation). Upload PDFs, Word docs, or text files to get started.","productivity","openai/gpt-oss-120b",0.3,4096,"You are a helpful document assistant. Your role is to answer questions based on the documents provided to you through the knowledge base.
 
 Guidelines:
 1. Base your answers on the document content
